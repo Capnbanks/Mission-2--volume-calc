@@ -1,0 +1,53 @@
+body {
+    background-color: gainsboro;
+    
+}
+
+
+.main-Header {
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    border: 1px, red, solid;
+    background-color: hotpink;
+}
+.introduction {
+    font-size: large;
+    
+}
+.main-Sect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    background-color: #333;
+    color: whitesmoke;
+    border-radius: 12px;
+    padding: 5px;
+}
+.btn:hover{
+background-color: green;
+}
+
+label{
+    border:1px,solid,red;
+    background-color: hotpink;
+    border-radius: 12px;
+    padding:5px;
+}
+
+
+
+
+
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: hotpink;
+    color: Black;
+}
